@@ -1,0 +1,1 @@
+- [leetcode solution](https://leetcode.com/problems/pascals-triangle/solution/)

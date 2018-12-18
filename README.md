@@ -7,3 +7,4 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[here](problem/src/main/java/maximum_subarray/MaximumSubarray.java)|[Note](problem/src/main/java/maximum_subarray/MaximumSubarray.md)|Easy|Array,Divide and Conquer,Dynamic Programming|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[here](problem/src/main/java/plus_one/PlusOne.java)|无|Easy|Array,Math|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[here](problem/src/main/java/merge_sorted_array/MergeSortedArray.java)|无|Easy|Array,Two Pointers|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[here](problem/src/main/java/pascal_triangle/PascalTriangle.java)|[Note](https://leetcode.com/problems/pascals-triangle/solution/)|Easy|Array|
