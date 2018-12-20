@@ -11,3 +11,4 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[here](problem/src/main/java/pascal_triangle_ii/PascalTriangleII.java)|无|Easy|Array|
 |167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[here](problem/src/main/java/two_sum_ii/TwoSumII.java)|[Note](problem/src/main/java/two_sum_ii/TwoSumII.md)|Easy|Array,Two Pointers,Binary Search|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[here](problem/src/main/java/majority_element/MajorityElement.java)|[Note](problem/src/main/java/majority_element/MajorityElement.md)|Easy|Array,Divide and Conquer,Bit Manipulation|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[here](problem/src/main/java/rotate_array/RotateArray.java)|[Note](problem/src/main/java/rotate_array/RotateArray.md)|Easy|Array|
